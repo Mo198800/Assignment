@@ -5,7 +5,7 @@
 To be completed in the last module of the semester.
 
 ### Information System Components
-This is where you should write the amazon process
+Amazon Process
 
 ### Software
 #### GitHub
