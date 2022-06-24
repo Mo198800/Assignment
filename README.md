@@ -19,6 +19,7 @@ Amazon is very easy to make an order through their website. First of all, go to 
 #### Artificial Intelligence
 
 ### Career Exploration
+Tri-c Providing and helping students to get internships in their careers and help them by navigtating them to the right course or class.For examples, I enrolled to cybersecurity degree, I got many emails about what is the need for the market and what others certificate I can get Like comptia, Cisco, etc to help me have a strong skills.
 #### Bureau of Labor Statistics
 #### Handshake
 #### Certifications, Certificates, and Degrees
