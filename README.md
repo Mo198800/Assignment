@@ -5,7 +5,7 @@
 To be completed in the last module of the semester.
 
 ### Information System Components
-Amazon Process
+Amazon is very easy to make an order through their website. First of all, go to www.Amazon.com. Create an account, search whatever you want from milions of products, pick the item, put your address and the payments, Amazon will ship the item to the nearst carrier and then the carrier will ship it directly to your home.Easy process
 
 ### Software
 #### GitHub
