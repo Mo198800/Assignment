@@ -46,6 +46,7 @@ Increasing RAM impacts computing speed so we load more data without need the slo
 The difference between 64 bit and 32 bit that 64 bits can transfers 64 bits at a time. DIMM (64 bit) is faster than SIMM(32bit) it can transfer double the amount of the clock cycle.
 RAM and HDD, are both types of computer memory. RAM is used to store computer programs and data that CPU needs in real time. RAM data is volatile and is erased once computer is switched off. HDD, hard disk has permanent storage and it is used to store user specific data and operating system file
 #### Data Representation
+Binary number systems use a base of two while hexadecimal uses a base of 16. In a hexadecimal system, it is necessary to count to 15. To represent the numbers 10 – 15, the letters A – F are used respectively. To distinguish the different number systems, suffixes or subscripts are often used.
 #### Operating Systems
 
 ### Networking
