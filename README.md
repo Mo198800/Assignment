@@ -48,6 +48,7 @@ RAM and HDD, are both types of computer memory. RAM is used to store computer pr
 #### Data Representation
 Binary number systems use a base of two while hexadecimal uses a base of 16. In a hexadecimal system, it is necessary to count to 15. To represent the numbers 10 – 15, the letters A – F are used respectively. To distinguish the different number systems, suffixes or subscripts are often used.
 #### Operating Systems
+I opened the command prompt then I typed help and then help mkdir I chose the folder that i want to create a folder at I had an error with file C SO I picked folder D and then I typed the folder name which is IT1025Momen and then i typed cd and then  dir.
 
 ### Networking
 #### Data Transmission
