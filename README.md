@@ -22,7 +22,6 @@ Vector graphics are digital art that is rendered by a computer using a mathemati
  PNG (Portable Network Graphics) is another bitmapped image format that uses lossless data compression and was created to replace the GIF image format. The PNG format was largely unsupported by Internet Explorer for a long time, making it less commonly used than GIF and JPEG formats, though it’s now supported properly by every major browser. PNG files support palette-based color (either 24-bit RGB or 32-bit RGBA), greyscale, RGBA and RGB color spaces. One of PNG’s biggest advantages is that it supports a number of transparency options, including alpha channel transparency.
 #### File Compression
 #### Artificial Intelligence
-
 ### Career Exploration
 Tri-c Providing and helping students to get internships in their careers and help them by navigtating them to the right course or class.For examples, I enrolled to cybersecurity degree, I got many emails about what is the need for the market and what others certificate I can get Like comptia, Cisco, etc to help me have a strong skills.
 #### Bureau of Labor Statistics
@@ -68,6 +67,8 @@ The router is better than switch and hub because both of them can't read IP Addr
 #### Topologies and Types of Networks
 Star topology is the one that experience the single point of failure. The single point of failure is when the hub or the switch have an issue the entire netweork go down. . Compare the Infrastructure Topology and Wireless Mesh. Which do you think is better and why? 
 An infrastructure topology is used to extend a wired LAN to include wireless devices. In this topology the devices communicate with the wired LAN via base stations which acts as a bridge between wired and wireles. However, wireless mesh is easier to use because it doesn't need more wired like infrastrutre it is very reduned and easy to access.
+###Network Design
+My design expalins that two computers and printers connected to internet through router.
 
 
 #### Protocols
