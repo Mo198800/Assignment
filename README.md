@@ -73,6 +73,18 @@ My design expalins that two computers and printers connected to internet through
 There are thousands of different network protocols, but they all perform one of three primary actions
 First of all,  Communication protocols allow different network devices to communicate with each other. They are used in both analog and digital communications and can be used for important processes, ranging from transferring files between devices to accessing the internet. For example, Internet Protocol (IP) allows data to be sent between devices via the internet. The internet could not operate as it currently does without IP. Secondly, Network management protocols define and describe the various procedures needed to effectively operate a computer network. These protocols affect various devices on a single network — including computers, routers and servers — to ensure each one, and the network as a whole, perform optimally. For instance, Connection, these protocols establish and maintain stable connections between different devices on the same network. Finally, Security protocols, also called cryptographic protocols, work to ensure that the network and the data sent over it are protected from unauthorized users. For example, transportation security protocols protect data while it is transported from one network device to another.
 
+NSA Cybersecurity prevents and eradicates threats to U.S. national security systems, with an initial focus on the Defense Industrial Base (DIB) and the improvement of the nation’s weapons’ security.
+
+At its core, NSA Cybersecurity aims to defeat the adversary through the seven core missions and functions:
+
+Provide intelligence to warn of malicious cyber threats and information U.S. Government (USG) policy
+Develop integrated Nuclear Command & Control Systems threat, vulnerability, risk, and cryptographic products & services
+Release integrated threat, assessment, and mitigation/protection products for the Department of Defense (DoD) and USG customers
+Execute high-assurance cryptography and security engineering
+Offer combined defense/offence operations with key government partners
+Enable the defense of the agency’s networks in coordination with NSA’s Chief Information Officer
+Promote information sharing to support the agency’s cybersecurity mission
+
 ### Cybersecurity and Encryption
 #### Security Triad
 #### Caesar and Polyalphabetic Ciphers
