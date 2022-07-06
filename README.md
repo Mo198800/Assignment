@@ -57,8 +57,16 @@ I opened the command prompt then I typed help and then help mkdir I chose the fo
 
 ### Networking
 #### Data Transmission
+Packet is the fundamental unit of data transmitted over the Internet. When a host (PC, workstation, server, printer, etc.) intends to send a message to another host (for example, your PC sends a request to YouTube to open a video), it breaks the message down into smaller pieces, called packets. Each packet has the sender’s address, the destination address, a sequence number, and a piece of the overall message to be sent.
+IP Address defintation is every device on the Internet (personal computer, a tablet, a smartphone, etc.) is assigned a unique identifying number called an IP (Internet Protocol) address.
+Packet-Switching is when a message’s packets are sent on the Internet, routers try to find the optimal route for each packet. This can result in packets being sent on different routes to their destination. After the packets arrive they are re-assembled into the original message for the recipient.
+DNS acts as the directory of websites on the Internet. When a request to access a host with a domain name is given, a DNS server is queried. It returns the IP address of the host requested, allowing for proper routing.
+Protocol is the set of rules that govern how communications take place on a network. For example, File Transfer Protocol (FTP) are the communication rules for transferring files from one host to another.
 #### Hardware
+A switch is smarter than a hub because switch learn the physical address and store them. it is called MAC addresses and directed the data to the intended destination port. Unlike the hub, the Hub  Connect all network all devices together and it is not smart to filter any data or where the data be sent. It sends data to every port without filter.
+The router is better than switch and hub because both of them can't read IP Address. However, the router does read IP address. The router does what it names implies. it routws or forward data to one network to another based on IP address. when the packet data recives from the router inspects its data if for own network or another network. if it is for own network it recives it, if it is not to own network it sends it off to another network.
 #### Topologies and Types of Networks
+
 #### Protocols
 
 ### Cybersecurity and Encryption
