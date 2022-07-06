@@ -91,7 +91,16 @@ Promote information sharing to support the agency’s cybersecurity mission
 #### Caesar and Polyalphabetic Ciphers
 A Caesar cipher is a simple method of encoding messages. Caesar ciphers use a substitution method where letters in the alphabet are shifted by some fixed number of spaces to yield an encoding alphabet. However, A poly-alphabetic cipher is any cipher based on substitution, using several substitution alphabets. In polyalphabetic substitution ciphers, the plaintext letters are enciphered differently based upon their installation in the text. Rather than being a one-to-one correspondence, there is a one-to-many relationship between each letter and its substitutes.
 #### Public and Private Key Encryption
+The owner of the private key can encrypt data so that the public key decrypts it; meanwhile, anyone can encrypt data with the public key, but only the owner of the private key can decrypt it. Therefore, anyone can send data securely to the private key owner.
 #### Brute-Force Attacks
+Prevention For Users, Use long, unique passwords. Brute forcing becomes exponentially harder with longer passwords. You can thwart dictionary attacks by making your passwords more unique. If in doubt, use a password manager to automatically generate and save random passwords for each site.
+Secure remote desktop connections as much as possible. Remote desktop is a popular way for attackers to get access to your computer. Leave remote desktop off as much as possible. When it’s on, use an extremely strong password.
+Use two-factor authentication. A brute-force attack is far more difficult when a correct password isn’t enough to log into an account. With 2FA, users need their phone or a physical security key to log into their accounts. This makes your account far more secure.
+Prevention For Server Operators
+Use rate limiting. If you run a server, make sure that hackers can’t try passwords very fast. They might get discouraged and give up if the delay is long enough.
+Don’t use account lockouts. If you own a website, it might make sense to lock accounts after a certain number of incorrect attempts. However, this lets an attacker perform a denial of service attack by locking out lots of accounts.
+Secure SSH appropriately. Enable fail2ban, disable password logins (in favor of SSH keys), and turn off root login from SSH.
+Hash and salt your passwords with modern algorithms. MD5 or another very basic hash algorithm is hardly better than nothing. Use a modern hash function and salt to prevent rainbow table attacks.
 
 ### Internet Programming
 #### Components of a URL
