@@ -87,7 +87,9 @@ Promote information sharing to support the agency’s cybersecurity mission
 
 ### Cybersecurity and Encryption
 #### Security Triad
+
 #### Caesar and Polyalphabetic Ciphers
+A Caesar cipher is a simple method of encoding messages. Caesar ciphers use a substitution method where letters in the alphabet are shifted by some fixed number of spaces to yield an encoding alphabet. However, A poly-alphabetic cipher is any cipher based on substitution, using several substitution alphabets. In polyalphabetic substitution ciphers, the plaintext letters are enciphered differently based upon their installation in the text. Rather than being a one-to-one correspondence, there is a one-to-many relationship between each letter and its substitutes.
 #### Public and Private Key Encryption
 #### Brute-Force Attacks
 
