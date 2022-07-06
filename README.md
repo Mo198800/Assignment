@@ -69,9 +69,9 @@ Star topology is the one that experience the single point of failure. The single
 An infrastructure topology is used to extend a wired LAN to include wireless devices. In this topology the devices communicate with the wired LAN via base stations which acts as a bridge between wired and wireles. However, wireless mesh is easier to use because it doesn't need more wired like infrastrutre it is very reduned and easy to access.
 ###Network Design
 My design expalins that two computers and printers connected to internet through router.
-
-
 #### Protocols
+There are thousands of different network protocols, but they all perform one of three primary actions
+First of all,  Communication protocols allow different network devices to communicate with each other. They are used in both analog and digital communications and can be used for important processes, ranging from transferring files between devices to accessing the internet. For example, Internet Protocol (IP) allows data to be sent between devices via the internet. The internet could not operate as it currently does without IP. Secondly, Network management protocols define and describe the various procedures needed to effectively operate a computer network. These protocols affect various devices on a single network — including computers, routers and servers — to ensure each one, and the network as a whole, perform optimally. For instance, Connection, these protocols establish and maintain stable connections between different devices on the same network. Finally, Security protocols, also called cryptographic protocols, work to ensure that the network and the data sent over it are protected from unauthorized users. For example, transportation security protocols protect data while it is transported from one network device to another.
 
 ### Cybersecurity and Encryption
 #### Security Triad
