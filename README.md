@@ -66,6 +66,9 @@ Protocol is the set of rules that govern how communications take place on a netw
 A switch is smarter than a hub because switch learn the physical address and store them. it is called MAC addresses and directed the data to the intended destination port. Unlike the hub, the Hub  Connect all network all devices together and it is not smart to filter any data or where the data be sent. It sends data to every port without filter.
 The router is better than switch and hub because both of them can't read IP Address. However, the router does read IP address. The router does what it names implies. it routws or forward data to one network to another based on IP address. when the packet data recives from the router inspects its data if for own network or another network. if it is for own network it recives it, if it is not to own network it sends it off to another network.
 #### Topologies and Types of Networks
+Star topology is the one that experience the single point of failure. The single point of failure is when the hub or the switch have an issue the entire netweork go down. . Compare the Infrastructure Topology and Wireless Mesh. Which do you think is better and why? 
+An infrastructure topology is used to extend a wired LAN to include wireless devices. In this topology the devices communicate with the wired LAN via base stations which acts as a bridge between wired and wireles. However, wireless mesh is easier to use because it doesn't need more wired like infrastrutre it is very reduned and easy to access.
+
 
 #### Protocols
 
