@@ -72,6 +72,13 @@ My design expalins that two computers and printers connected to internet through
 #### Protocols
 There are thousands of different network protocols, but they all perform one of three primary actions
 First of all,  Communication protocols allow different network devices to communicate with each other. They are used in both analog and digital communications and can be used for important processes, ranging from transferring files between devices to accessing the internet. For example, Internet Protocol (IP) allows data to be sent between devices via the internet. The internet could not operate as it currently does without IP. Secondly, Network management protocols define and describe the various procedures needed to effectively operate a computer network. These protocols affect various devices on a single network — including computers, routers and servers — to ensure each one, and the network as a whole, perform optimally. For instance, Connection, these protocols establish and maintain stable connections between different devices on the same network. Finally, Security protocols, also called cryptographic protocols, work to ensure that the network and the data sent over it are protected from unauthorized users. For example, transportation security protocols protect data while it is transported from one network device to another.
+“IP address” is a shorter way of saying “Internet Protocol address.” IP addresses are the numbers assigned
+to computer network interfaces. Although we use names to refer to the things we seek on the Internet,
+such as www.example.org, computers translate these names into numerical addresses so they can
+send data to the right location. So when you send an email, visit a web site, or participate in a video
+conference, your computer sends data packets to the IP address of the other end of the connection
+and receives packets destined for its own IP address.
+The main difference between IPv4 and IPv6 is the address size of IP addresses. The IPv4 is a 32-bit address, whereas IPv6 is a 128-bit hexadecimal address. IPv6 provides a large address space, and it contains a simple header as compared to IPv4.
 
 NSA Cybersecurity prevents and eradicates threats to U.S. national security systems, with an initial focus on the Defense Industrial Base (DIB) and the improvement of the nation’s weapons’ security.
 
