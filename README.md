@@ -79,6 +79,8 @@ send data to the right location. So when you send an email, visit a web site, or
 conference, your computer sends data packets to the IP address of the other end of the connection
 and receives packets destined for its own IP address.
 The main difference between IPv4 and IPv6 is the address size of IP addresses. The IPv4 is a 32-bit address, whereas IPv6 is a 128-bit hexadecimal address. IPv6 provides a large address space, and it contains a simple header as compared to IPv4.
+ICANN is a public-private partnership that is responsible for the following functions related to internet names and numbers: Allocation of IP address space. ICANN manages the distribution and allocation of IP version 4 and IP version 6 network addresses through five regional internet registries.
+HTTP is the protocol that is used for viewing web pages. it is vulurable to hackers because http is not secred like https. so it is not recommened to put any senstive data on HTTP. on the other hand HTTPS is very secured and encrypts any senstive data to a meaningless information so any hacker cant get this information and we know it is https when we see a lock on the web broweser bar.
 
 NSA Cybersecurity prevents and eradicates threats to U.S. national security systems, with an initial focus on the Defense Industrial Base (DIB) and the improvement of the nation’s weapons’ security.
 
