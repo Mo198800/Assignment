@@ -114,6 +114,8 @@ Hash and salt your passwords with modern algorithms. MD5 or another very basic h
 ### Internet Programming
 #### Components of a URL
 #### World Wide Web Consortium
+W3C is led by Tim Berners-Lee, inventor of the World Wide Web and Director and Dr. Jeffrey Jaffe, W3C CEO. They are supported by a staff of technical experts who help coordinate technology development and manage the operations of the Consortium. It promotes and helps develop the open source Solid platform. Solid aims to give people control and agency over their data, questioning many assumptions about how the web has to work.
+Web of Devices W3C is focusing on technologies to enable Web access anywhere, anytime, using any device. This includes Web access from mobile phones and other mobile devices as well as use of Web technology in consumer electronics, printers, interactive television, and even automobiles.
 
 ### Software Development
 #### Algorithms
