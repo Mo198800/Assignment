@@ -127,6 +127,8 @@ Web of Devices W3C is focusing on technologies to enable Web access anywhere, an
 ### Software Development
 #### Algorithms
 #### Object Oriented Concepts
+There are class and object, Class — A blueprint created by a programmer for an object. This defines a set of attributes that will characterize any object that is instantiated from this class.
+Object — An instance of a class. This is the realized version of the class, where the class is manifested in the program. These are used to create patterns (in the case of classes) and then make use of the patterns (in the case of objects). Methods are a special kind of function that are defined within a class. The constructor method is used to initialize data. It is run as soon as an object of a class is instantiated. Classes make it possible to create more than one object following the same pattern without creating each one from scratch. 
 
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
