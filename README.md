@@ -141,6 +141,7 @@ Businesses can utilize outside intelligence while taking decisions, Improved cus
 #### The Relational model and Normalization
 A primary key must be selected for each table in a relational database. This key is a unique identifier for each record in the table. they gave an example about how to identify students by emails or students ID. The primary key of table can be just one field, but can also be a combination of two or more fields. The next step of design of database is to identify and make the relationships between the tables so that you can pull the data together in meaningful ways. A relationship between two tables is implemented by using a foreign key and a foreign key is a field in one table that connects to the primary key data in the original table, Finally, Normalization is to normalize a database means to design it in a way that reduces data redundancy and ensure data integrity.
 #### SQL Injections
+SQL injection is a code injection technique that might destroy your database. SQL injection is one of the most common web hacking techniques. SQL injection is the placement of malicious code in SQL statements, via web page input. A hacker might get access to all the user names and passwords in a database, by simply inserting 105 OR 1=1 into the input field. To protect a web site from SQL injection, you can use SQL parameters. SQL parameters are values that are added to an SQL query at execution time, in a controlled manner.
 
 ### Legal and Ethical Responsibilities in Computing
 
